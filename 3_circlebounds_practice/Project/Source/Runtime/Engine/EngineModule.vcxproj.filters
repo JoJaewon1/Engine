@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\whqhd\Downloads\3_circlebounds_practice\Source\Runtime\Engine\Precompiled.cpp" />
+    <ClCompile Include="C:\Users\whqhd\Downloads\3_circlebounds_practice\Source\Runtime\Engine\Private\2D\Camera.cpp">
+      <Filter>Private\2D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\whqhd\Downloads\3_circlebounds_practice\Source\Runtime\Engine\Private\2D\GameEngine.cpp">
+      <Filter>Private\2D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\whqhd\Downloads\3_circlebounds_practice\Source\Runtime\Engine\Private\2D\GameObject.cpp">
+      <Filter>Private\2D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\whqhd\Downloads\3_circlebounds_practice\Source\Runtime\Engine\Private\2D\Mesh.cpp">
+      <Filter>Private\2D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\whqhd\Downloads\3_circlebounds_practice\Source\Runtime\Engine\Private\2D\Transform.cpp">
+      <Filter>Private\2D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\whqhd\Downloads\3_circlebounds_practice\Source\Runtime\Engine\Private\InputManager.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\whqhd\Downloads\3_circlebounds_practice\Source\Runtime\Engine\Precompiled.h" />
+    <ClInclude Include="C:\Users\whqhd\Downloads\3_circlebounds_practice\Source\Runtime\Engine\Public\2D\Camera.h">
+      <Filter>Public\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\whqhd\Downloads\3_circlebounds_practice\Source\Runtime\Engine\Public\2D\GameEngine.h">
+      <Filter>Public\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\whqhd\Downloads\3_circlebounds_practice\Source\Runtime\Engine\Public\2D\GameObject.h">
+      <Filter>Public\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\whqhd\Downloads\3_circlebounds_practice\Source\Runtime\Engine\Public\2D\Mesh.h">
+      <Filter>Public\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\whqhd\Downloads\3_circlebounds_practice\Source\Runtime\Engine\Public\2D\Transform.h">
+      <Filter>Public\2D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\whqhd\Downloads\3_circlebounds_practice\Source\Runtime\Engine\Public\EngineHeaders.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\whqhd\Downloads\3_circlebounds_practice\Source\Runtime\Engine\Public\InputManager.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Private">
+      <UniqueIdentifier>{BC5BD846-0E7D-3F61-97D3-9677123E962D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Private\2D">
+      <UniqueIdentifier>{D576595E-E902-3AA2-89C8-31540D4EE898}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Public">
+      <UniqueIdentifier>{75068451-DE00-3C81-9796-A73065F0C7C9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Public\2D">
+      <UniqueIdentifier>{EDFEDD8E-C5C6-3F79-90E9-727D8BAC6B8F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
